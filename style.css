@@ -1,0 +1,55 @@
+/* Write some CSS below */
+
+body { font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 12px;
+line-height: 1.6;
+letter-spacing: 1px;
+font-weight:lighter;
+text-align: center;}
+
+h1 { color: rgb(249, 193, 203);
+background-color: white;
+text-align: center;
+font-size: 25px;}
+    
+img { width: 300px;
+border-radius: 30px;
+height: 200px;}
+
+a {color: white;
+background-color: rgb(249, 193, 203);
+text-decoration: none;
+line-height: 2;
+font-size: 30px;
+border-radius: 5px;
+margin: 24px;
+padding: 10px;}
+
+
+h2 {color: rgb(249, 193, 203);
+text-align: center;
+padding: 5px;
+margin: 5px;
+border-color: rgb(249, 193, 203);
+border-width: 1px;}
+
+ul{text-align: left;}
+
+.card-white{
+background-color: cornsilk;
+text-align: center;
+padding: 5px 50px 5px 50px;
+border: 2px solid rgb(249, 193, 203);
+border-radius: 5px;
+margin-top: 20px;}
+
+p{
+background-color: cornsilk;
+text-align: center;
+padding: 5px;
+border-radius: 5px;
+margin: 5px 10px;}
+
+.container{
+width: 700px;
+margin: 20px auto;}
